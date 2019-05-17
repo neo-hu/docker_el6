@@ -1,0 +1,5 @@
+/runc
+/runc-*
+/containerd-shim
+/dockerd
+.idea
